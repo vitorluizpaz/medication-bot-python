@@ -4,9 +4,9 @@ Este projeto é um bot desenvolvido em Python que utiliza Selenium para automati
 
 ## Funcionalidades
 
-- Solicita a quantidade desejada de medicamentos específicos.
-- Acessa os sites das farmácias e consulta os preços dos medicamentos informados.
-- Exibe o preço total de cada farmácia consultada no terminal.
+- Solicita a quantidade desejada de medicamentos específicos
+- Acessa os sites das farmácias e consulta os preços dos medicamentos informados
+- Exibe o preço total de cada farmácia consultada no terminal
 
 ## Farmácias Suportadas
 
