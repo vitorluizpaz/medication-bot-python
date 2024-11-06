@@ -6,7 +6,7 @@ Este projeto é um bot desenvolvido em Python que utiliza Selenium para automati
 
 - Solicita a quantidade desejada de medicamentos específicos.
 - Acessa os sites das farmácias e consulta os preços dos medicamentos informados.
-- Exibe os preços de cada farmácia consultada no terminal.
+- Exibe o preço total de cada farmácia consultada no terminal.
 
 ## Farmácias Suportadas
 
@@ -16,7 +16,7 @@ Este projeto é um bot desenvolvido em Python que utiliza Selenium para automati
 - São João
 - (Droga Raia – requer login e senha para acesso)
 
-## Pré-requisitos (Os 3 devem ser compatíveis.)
+## Pré-requisitos (Os 3 devem ser compatíveis)
 
 - Python
 - Selenium
@@ -28,4 +28,4 @@ Este projeto é um bot desenvolvido em Python que utiliza Selenium para automati
 correspondente a ela em main.py e alterar login e senha no arquivo 
 ./farmacias/droga_raia
 - Executar main.py da pasta raiz usando python
-- Insira a quantidade de medicamento(caixas) desejadas
+- Insira a quantidade de medicamento (caixas) desejadas
