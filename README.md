@@ -26,6 +26,6 @@ Este projeto é um bot desenvolvido em Python que utiliza Selenium para automati
 
 - Se desejar utilizar a consulta na droga raia, descomentar o trecho de código
 correspondente a ela em main.py e alterar login e senha no arquivo 
-./farmacias/droga_raia
+./farmacias/droga_raia.py
 - Executar main.py da pasta raiz usando python
 - Insira a quantidade de medicamento (caixas) desejadas
